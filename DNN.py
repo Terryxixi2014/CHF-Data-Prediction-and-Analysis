@@ -1,5 +1,4 @@
-# This code is developed at UW Madison, to provide deep neural network for the department of engineering physics
-# This code is prepared by Jun Wang, in Michael L. Corradini's group
+# This code is prepared by Jun Wang
 # The first application of this code is prediction of CHF for ATF materials
 
 # Part1 import initial required modules
